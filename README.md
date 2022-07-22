@@ -1,1 +1,0 @@
-# Entorno-Linux-Ubuntu-Dependencias
