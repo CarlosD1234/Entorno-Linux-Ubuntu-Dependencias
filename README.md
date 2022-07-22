@@ -101,11 +101,14 @@ conda
 
 ```
 conda create -n myenv python=3.8.10
+conda env list
+conda activate myenv
 conda install pandas numpy matplotlib scipy ipympl ipykernel jupyter notebook
 ```
 
 <ol>
 <li>Crea tu entorno, donde "myenv" es el nombre e instala python versión 3.8.10</li>
+<li>Conda activate, selecciona el entorno</li>
 <li>Conda install, actúa como pip install.</li>
 </ol><br>
 
