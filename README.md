@@ -50,6 +50,7 @@ sudo add-apt-repository ppa:deadsnakes/ppa
 sudo apt install python3.8.12
 ```
 <p><b>O bien puedes utilizar:</b></p>
+
 ```bash
 sudo apt-get install software-properties-common
 sudo add-apt-repository ppa:deadsnakes/ppa
