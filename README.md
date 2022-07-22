@@ -66,7 +66,7 @@ Viendo errores de sintáxis, fácilitando su ejecución, y haciendo más sencill
 sudo snap install --classic code
 ```
 
-<h2>GIT<h2>
+<h2>GIT</h2>
 <p>Dedicado al control de versiones te ayuda a tener la información en "la nube", permitiendo trabajo simultaneo de proyectos, clonar repositorios (proyectos de otras personas o propios), y traer los diferentes entornos al computador que estés utilizando.</p>
 
 ```bash
