@@ -93,7 +93,6 @@ conda config --set auto_activate_base false
 ```
 
 <h3>Para crear un entorno en miniconda, ejemplo</h3>
-<br>
 <p>En cmd:</p>
 
 ```bash
