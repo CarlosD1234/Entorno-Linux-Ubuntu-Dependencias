@@ -122,6 +122,7 @@ conda install pandas numpy matplotlib scipy ipympl ipykernel jupyter notebook
 <b>jupyter notebook</b> (ejecutar por celdas dentro de vscode)</p>
 
 <h2>Discord</h2>
+
 ```bash
 sudo dpkg -i /path/to/discord-canary-0.0.11.deb
 wget https://discordapp.com/api/download/canary?platform=linux
