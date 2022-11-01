@@ -144,3 +144,29 @@ echo \
   "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.gpg] https://download.docker.com/linux/ubuntu \
   $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
 ```
+
+<h2>NodeJS</h2>
+
+```bash
+sudo su
+<user_password>
+apt-get update
+apt-get install -y nodejs
+node -v
+```
+
+<h2>NPM</h2>
+
+```bash
+apt install npm
+Y
+npm -v
+```
+
+<h2>Actualizar NodeJS</h2>
+<p>Actualizar a version NodeJS estable LTS (https://nodejs.org/en/)</p>
+
+```bash
+sudo npm install -g n
+sudo n stable
+```
