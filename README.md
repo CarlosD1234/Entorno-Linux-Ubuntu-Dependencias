@@ -1,5 +1,5 @@
 <h1> Entorno-Linux/Ubuntu-Dependencias <b>20.04</b></h1>
-<p>Dependencias comunes para un entorno Linux/Ubuntu, python, c++, github, vscode, wget, etcétera.<br>
+<p>Dependencias comunes para un entorno Linux/Ubuntu, Python, C++, GitHub, VSCode, wget, etcétera.<br>
 <b>Nota:</b> Algunas dependencias se incluyen dentro de otras.</p>
 
 <h2>Dependencias básicas</h2>
@@ -60,10 +60,10 @@ sudo apt-get install python3.8
 
 <h2>VSCODE</h2>
 <p><b>Visual Studio Code</b> es un <b>editor de código fuente</b>, te ayudará junto a extensiones trabajar mejor visualmente con Python, C++, Java, R, SSH, etcétera.<br>
-Viendo errores de sintáxis, fácilitando su ejecución, y haciendo más sencillo el manejo de varios lenguajes con esta única herramienta.</p>
+Viendo errores de sintaxis, facilitando su ejecución, y haciendo más sencillo el manejo de varios lenguajes con esta única herramienta.</p>
 
 ```bash
-sudo snap install --classic code
+sudo snap install code --classic
 ```
 
 <h2>GIT</h2>
@@ -107,7 +107,7 @@ conda install pandas numpy matplotlib scipy ipympl ipykernel jupyter notebook
 ```
 
 <ol>
-<li>Crea tu entorno, donde "myenv" es el nombre e instala python versión 3.8.10</li>
+<li>Crea tu entorno, donde "myenv" es el nombre e instala Python versión 3.8.10</li>
 <li>Conda activate, selecciona el entorno</li>
 <li>Conda install, actúa como pip install.</li>
 </ol><br>
@@ -119,7 +119,7 @@ conda install pandas numpy matplotlib scipy ipympl ipykernel jupyter notebook
 <b>scipy</b> (optimización)<br>
 <b>ipympl</b> (jupyter+matplot)<br>
 <b>ipykernel</b> (seleccionar kernel, o entorno)<br>
-<b>jupyter notebook</b> (ejecutar por celdas dentro de vscode)</p>
+<b>jupyter notebook</b> (ejecutar por celdas dentro de VSCode)</p>
 
 <h2>Discord</h2>
 
@@ -164,7 +164,7 @@ npm -v
 ```
 
 <h2>Actualizar NodeJS</h2>
-<p>Actualizar a version NodeJS estable LTS (https://nodejs.org/en/)</p>
+<p>Actualizar a versión NodeJS estable LTS (https://nodejs.org/en/)</p>
 
 ```bash
 sudo npm install -g n
